@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.com.seoulg">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/seoul_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:logo="@drawable/seoul_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"></activity>
+        <activity
+            android:name=".CourseActivity"
+            android:logo="@drawable/seoul_icon"
+            android:label="Course"/>
+        <activity
+            android:name=".PlaceActivity"
+            android:label="Place"
+            android:theme="@style/NoActionbarTheme"/>
+        <activity
+            android:name=".PlaceThirdActivity"
+            android:label="Place 액티비티" />
+        <activity
+            android:name=".PlaceThirdActivity2"
+            android:label="Place 액티비티" />
+        <activity
+            android:name=".PlaceThirdActivity3"
+            android:label="Place 액티비티" />
+        <activity android:name=".IntroActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MapsActivity"
+            android:label="Maps 액티비티" />
+
+    </application>
+
+</manifest>

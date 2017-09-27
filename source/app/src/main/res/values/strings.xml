@@ -1,0 +1,405 @@
+<resources>
+    <string name="app_name">SeoulG</string>
+
+    <!-- 궁 !-->
+
+    <string name="changdeok">
+        "A UNESCO World Heritage Site and one of the most well-preserved royal palaces form the Joseon Dynasty founded in 1392 and lasted until 1910.\n\n"
+        "This is where kings and their ministers discussed state affairs to effectively reign over the people, and where the royal family resided.\n\n"
+        "Changdeokgung Palace was built in 1405 by King Taejong, the third ruler of Joseon.\n\n"
+        "All palaces in Seoul were burnt down during the Japanese invasion in 1592 and Changdeokgung Palace became the first palace to be rebuilt in 1610.\n\n"
+        "Since then, it became the primary palace for about 270 years where 13 kings including the last monarch dealt with state affairs.\n\n"
+    </string>
+
+<string name="changyeong">
+    "The palace was built in the mid-15th century by King Sejong for his father, Taejong.\n"
+    "It was originally named "Suganggung," but it was renovated and enlarged in 1483 by King Seongjong, at which time it received its current name.\n\n"
+    "Many structures were destroyed during Japan\'s multiple late 16th century attempts to conquer Korea and invade China.\n\n"
+    "It was rebuilt by successive Joseon Kings but was once again largely destroyed by the Japanese in the early 20th century,\n\n"
+    "but this time torn down methodically to make room for a modern park, a showplace for the empire, akin to Tokyo\'s Ueno Park.\n\n"
+    "During the Japanese colonial period, the Japanese built a zoo, botanical garden, and museum on the site.\n\n"
+    "After independence in 1945 and the turmoil and destruction of the 1950-53 Korean War,\n\n"
+    "the zoo was restocked through donations of wealthy Korean and gifts from foreign zoos.\n\n"
+    "In 1983 the zoo and botanical garden were relocated to what is today known as Seoul Land.\n\n"
+</string>
+
+
+<string name="deoksung">
+    "Deoksugung Palace is one of five royal palaces remained in Seoul.\n\n"
+    "Mainly built at the turn of the 20th century, Deoksugung Palace is the smallest of Seoul’s palaces.\n\n
+    "The name Deoksugung Palace means “Palace of virtue and longevity.” in the spirit of praying for long life for Emperor Gojong.\n\n
+    "Located at the corner of Seoul’s busiest downtown intersection, Deoksugung Palace is famous for its elegant stone-wall road.\n\n
+    "It is also the only palace that sits alongside a series of western style buildings that add to the unique of the surrounding scenery.\n\n"
+    "Deoksugung Palace is virtually two palaces in one-a Korean traditional complex blessed with numerous examples of late-Joseon palace architecture,\n\n"
+    "and a Western-style palace complex complete with two imposing neoclassical structures and Korea’s first Western-style garden.\n\n"
+</string>\
+
+<string name="gyeongbok">
+    "Gyeongbokgung Palace or Gyeongbok Palace, was the main royal palace of the Joseon dynasty.\n\n"
+    "Built in 1395, it is located in northern Seoul, South Korea.\n\n"
+    "The largest of the Five Grand Palaces built by the Joseon dynasty, Gyeongbokgung served as the home of Kings of the Joseon dynasty, the Kings\' households, as well as the government of Joseon.\n\n"
+    "Gyeongbokgung continued to serve as the main palace of the Joseon dynasty until the premises were destroyed by fire during the Imjin War and abandoned for two centuries.\n\n"
+    "However, in the 19th century, all of the palace\'s 7,700 rooms were later restored under the leadership of Prince Regent Heungseon during the reign of King Gojong.\n\n"
+    "Some 500 buildings were restored on a site of over 40 hectares.\n\n"
+    "The architectural principles of ancient Korea were incorporated into the tradition and appearance of the Joseon royal court.\n\n"
+    "In the early 20th century, much of the palace was systematically destroyed by Imperial Japan.\n\n"
+    "Since then, the walled palace complex is gradually being reconstructed to its original form.\n\n"
+    "Today, the palace is arguably regarded as being the most beautiful and grandest of all five palaces.\n\n"
+    "It also houses the National Palace Museum of Korea and the National Folk Museum within the premises of the complex.\n\n"
+</string>
+
+<string name="gyeonghui">
+    "Gyeonghui Palace was a palace located in Seoul, South Korea.\n\n"
+    "It was one of the "Five Grand Palaces" built by the Joseon Dynasty.\n\n"
+    "Construction began in the 1600s during the reign of King Gwanghaegun.\n\n"
+    "In the latter Joseon period, Gyeonghuigung served as the secondary palace for the king, and as it was situated on the west side of Seoul,\n\n"
+    "it was also called Seogwol (a palace of the west).\n"
+    "The Secondary palace is usually the palace where the King moves to in times of emergency.\n\n"
+    "From King Injo to King Cheoljong, about ten kings of Joseon dynasty stayed here at Gyeonghuigung.\n\n"
+    "This palace was built using the slanted geography of the surrounding mountain, has traditional beauty in its architecture and a lot of historical significance.\n\n"
+    "For a time, it was of a considerable size, even to the point of having an arched bridge connecting it to Deoksugung palace.\n\n"
+    "For the king’s royal audience, there were the Sungjeongjeon and Jajeongjeon buildings, and for sleeping, Yungbokjeon and Hoesangjeon buildings.\n\n"
+</string>
+
+<string name="jongmyo">
+    "Jongmyo is a Confucian shrine dedicated to the perpetuation of memorial services for the deceased kings and queens of the Korean Joseon Dynasty (1392-1897).\n\n"
+    "According to UNESCO, the shrine is the oldest royal Confucian shrine preserved and the ritual ceremonies continue a tradition established in the 14th century.\n\n"
+    "Such shrines existed during the Three Kingdoms of Korea period (57-668), but these have not survived. The Jongmyo Shrine was added to the UNESCO World Heritage list in 1995.\n\n"
+    "Jongmyo is adjacent to Changdeokgung and Changgyeonggung in the south.\n\n"
+    "They used to be connected in the Joseon period, but were separated by a road built by Japanese colonialists.\n\n"
+    "Nowadays there is a construction plan to recover the original structure of the shrine.\n\n"
+    "The main buildings of Jongmyo was constructed in October, 1394 when Taejo, first king of Joseon Dynasty, moved the capital to Seoul.\n\n"
+    "It was destroyed by fire in the Japanese invasions of Korea (1592?98), then rebuilt in 1608.\n\n"
+</string>
+
+
+    <!-- 공원 !-->
+<string name="boramae">
+    "The park was formerly the site of the Korean Air Force Academy but was turned into Boramae Park in May 1986.\n\n"
+
+    "This 360,000m² large park features sports facilities, a small zoo, a pond, a playground for children and walking paths.\n\n"
+
+    "Four of the two-storey buildings in the park are equipped with libraries for young students.\n\n"
+
+    "The Boramae Youth Center is popular among adolescents as it operates a wide range of fun and educational programs, including a movie club.\n\n"
+
+</string>
+
+<string name="dream">
+    "Dream Forest is the fourth largest park in Seoul, after the World Cup Park,\n\n"
+    "Olympic Park and Seoul Forest, and has become a part of the lives of 2.67million residents of six districts, Gangbuk, Seongbuk, Dobong, Nowon, Dongdaemun and Jungnang.\n\n"
+    "In the heart of the forest is a large lake named Wallyoungji, with the 7 m-high Wallgwang Waterfall and the pavilion Aewalljeong, not to mention grasslands twice the size of the Seoul Plaza.\n\n"
+    "Situated on the rim of Wallyoungji stands the traditional Korean hanok building, Changnyeonggungjaesa (No. 40 Registered Cultural Property), in its entire classical splendor.\n\n"
+</string>
+
+<string name="glidong">
+    "It is a place to provide habitat for animals, improve species diversity,\n\n"
+    "observe and experience animals of natural ecosystem, offer healthy ecological space to people and make them aware of the importance of environment.\n\n"
+    "Gildong Ecological Park provides a habitat for animals, improves species diversity, allows observation and experience of animals in the natural ecosystem,\n\n"
+    "and offers a healthy ecological space to people to make them aware of the importance of environment.\n\n"
+    "Location: 1291, Cheonho-daero, Gangdong-gu, Seoul\n\n
+</string>
+
+<string name="independence">
+ "This Park, located at Dongnimmun Station, allows people to learn about history of the Samil Independence Memorial Statue, Independence Hall and more\n\n"
+"Location: 251, Tongil-ro, Seodaemun-gu, Seoul, ☎ 02)364-4686 Area: 109.193.8㎡ (33,031pyeong) History\n\n"
+
+ "- November 15, 1987 Removed of Seoul Detention Center to Uiwang-si, Gyeonggi-do\n\n"
+ "- May 10, 1989 Decided Construction Notice Item No.232, City Plans (Park) decision\n\n"
+ "- May 24, 1989 Approved Park Application Plans Approval(Seoul city notice no.244)\n\n"
+ "- July 23, 1990 Decided Construction Notice Item No.436 Park Composition Plans decision\n\n"
+ "- August 15, 1992 Opened Ownership Classification\n\n"
+</string>
+
+<string name="iris">
+"Seoul Iris Garden is a special botanical garden that is full of irises, which is considered to be one of the world’s top four flowers.\n\n"
+    "It is located between Dobongsan(Mt.) and Suraksan(Mt.) at the end of Gangbuk, Seoul. It consists of 12 themes, including the Iris Garden, Medicinal Botanical Garden, and Wetland, on a land area of about 16,000 pyeong.\n\n"
+    "In the Iris Garden can be found about 130 species of 300,000 units of irises, which have flowers shaped like a ‘brush’.\n\n"
+"These include the Yellow Iris, Iris Setosa, and Iris Lactea.\n\n"
+    "In addition, in the Medicinal Botanical Garden, you can observe most of the medicinal plants that are produced in Korea.\n\n"
+    "While in the Wetland, there is an observatory deck for you to observe various aquatic plants and wetland organisms.\n\n"
+</string>
+
+<string name="jungnang">
+    "An experience park that restored the damaged areas inside the development restriction zone, such as vinyl greenhouses, etc., under the theme of picnics for families.\n\n"
+    "It is a park for ecological learning within healthy forests that minimize artificial facilities. Created as a culture-oriented park, it includes the establishment of small outdoor stages, etc., to focus mainly on young people.\n\n"
+    "Area: Total 179,666㎥ Opening Date: December 30, 1962\n\n"
+</string>
+
+<string name="namsan">
+    "The past foreign residential complex was developed into an open botanical garden, and as the Namsan Park was restored in the areas of Yejang-dong and Hwahyun-dong of Jung-gu and Hannam-dong of Yongsan-gu, it truly changed into a people’s park\n\n"
+"History\n"
+ "- March 12, 1940 Initial Park Notice (Advice no.208)\n\n"
+ "- September 10, 1968 Namsan Park Administration Office Opened under Seoul Metropolitan Government Regulation No.557\n\n"
+ "- July 9, 1977 Initial park Decision (Public notice No. 138)\n\n"
+ "- September 22, 1984 Namsan City Nature Park (Public notice No. 347)\n\n"
+</string>
+
+<string name="olympic">
+"Olympic Park, an icon of the 1988 Seoul Olympic Games, is abundant in sculptures and other permanent works of art on display in memory of this global sporting event.\n\n
+    "Also inside the park is Mongchontoseong, a mountain fortress wall built during the Baekje era (18 B.C.E. to 660 C.E.).\n\n
+    "The vast lawn area and the Peace Square, both in harmony with the pleasant natural surroundings, are wonderful to ride around on bicycles or inline skates.\n\n
+"Various sized squares and gymnasiums in the park are popular venues for concerts and sporting events.\n\n
+    "With a floor space of 1,421,494m², this beautiful park combines an uncontaminated natural environment with varied displays of man-made art such that it has become a favored location for shooting television commercials, films and wedding photos.\n\n
+</string>
+
+<string name="pureun">
+"Pureun Arboretum, which underwent construction in 2009 and was opened to the public in 2013, is Seoul’s first eco-friendly arboretum.\n\n
+    "Situated on a plot of land measuring 103,354㎡, the arboretum is equipped with 25 themed gardens, a forest education center, and a small library.\n\n
+"The arboretum is currently conducting research on about 2,050 plants native to Korea as well as plants from all around the world, and holds a variety of exhibitions and classes.\n\n
+    "In addition to its more structured programs, the diverse fauna and flora of the arboretum, as well as its varying landscapes and ponds, act as the perfect setting for visitors to learn more about nature.\n\n
+</string>
+
+<string name="sajik">
+"Located to the west of the government complex building in Sejong-ro, downtown Seoul (and on the southeastern side of Inwangsan), Sajik Park was built around a stone altar called “Sajikdan (Historic Site No. 121).\n\n
+    "Along with Jongmyo(Royal Shrine), Sajikdan was erected by King Taejo of the Joseon Dynasty in 1395.\n\n
+    "It was built to worship the gods of the earth and harvest (“Sa” means the god of the earth and “jik” means the god of cereals). The 188,710m² park was opened in 1922.\n\n
+"The park is home to such historical landmarks as Dangunseongjeon, the shrine of the legendary founding father of Korea, and Hwanghakjeong archery field.\n\n
+</string>
+
+<string name="seonyudo">
+"Seonyudo (meaning “an island where Taoist hermits play”) Park was the nation’s first recycling park.\n\n
+    "It was created using the old sewage treatment facilities on Seonyudo Islet.\n\n
+    "From 1978 to 2000, the park-site was used as a sewage treatment plant to provide tap water to the southwestern part of Seoul.\n\n
+    "Seoul Metropolitan Government closed the plant down in Nov. 2000 and spent 16.4 billion won to turn it into a park, which opened in 2004.\n\n
+"The park features the Hangang Exhibition Hall, which briefs visitors about the history of Hangang and its flora and fauna.\n\n
+    "The Water Purification Basin, the Garden of Time and the Ecological Water Playground are also all popular destinations of the park.\n\n
+    "Once you reach the park entrance you should then cross the footbridge called “Seonyugyo” (Seonyu Bridge) to get to the park.\n\n
+</string>
+
+<string name="seoseoul">
+"The Seoseoul Lake Park, which opened in October 2009, is an environmentally-friendly park built under the theme of ‘water’ and ‘recycling’ through the park development project of the old Sinwol Water Purification Plant located in Sinwol-dong, Yangcheon-gu.\n\n
+    "Since it first opened as the Gimpo Purification Plant in 1959, it has opened as a park fifty years later after the plant’s conversion to a rest area for citizens.\n\n
+    "The Gimpo Purification Plant played the important role of supplying an average of 120,000 tons of tap water every day, after the Seoul Metropolitan Government took charge of it in 1979.\n\n
+ "However, in October 2003, it stopped operation in accordance with the ‘Seoul’s Renewal Plan for Purification Plants’.\n\n
+    "Afterwards, various development plans were considered, including the establishment of a youth town for young people, rental houses, an English experience village, etc.,\n\n
+    "but in the end, it was decided that a park was the best option to resolve the regional imbalance in Seoul around 2006 and to revitalize the region by creating a representative theme park in the southwestern area.\n\n
+</string>
+
+<string name="seoul">
+"Seoul Forest is the metropolitan government’s answer to Central Park in New York City.
+    "Based on its plan to create a forest in the Ttukseom area, the metropolitan government worked for one year to open the vast (the forest takes up some 1.15 million m² of land), artificially formed forest to the public in June 2005.\n\n
+    "A total of 420,000 trees of 104 different kinds were transplanted here; to emphasize the eco-friendly image of the forest.\n\n
+"The trees were about 20 meters tall and 30 to 40 centimeters in diameter.\n\n
+   "Oak, hornbeam and cherry trees are most common here, most of which are of Korean origin. The forest consists of five areas under different themes.\n\n
+</string>
+
+<string name="tabgol">
+"Located in Jongno, downtown Seoul, Tapgol Park was the first urban park ever to be opened in the country.\n\n
+
+   "Designed by J.M. Brown, a British diplomat, in 1897, the park currently serves a wide variety of the recreational needs of Seoulites.\n\n
+"It is also of great historical significance: The March 1st Movement of 1919 ignited here during the Japanese occupation.\n\n
+    "An octagonal pavilion, Palgakjeong, marks the exact spot where Korea’s Declaration of Independence was read out for the first time.\n\n
+</string>
+
+<string name="worldcup">
+"This park is located near the Seoul World Cup Stadium and is made up of five smaller parks:
+      Pyeonghwa (Peace) Park, Haneul (Sky) Park, Noeul (Sunset) Park, Nanjicheon and Naji Hangang Park. Pyeonghwa Park, a symbol of the peace and harmony of the world, is the flagship park of the five and was built in memory of the first World Cup Soccer Finals of the new millennium.\n\n
+"Haneul Park is the highest in location of the five, while the sunset viewed from Noeul Park is especially beautiful.\n\n
+    "Nanjicheon Park features a natural creek where diverse plants grow. Nanji Hangang Park, located on the banks of the Hangang, features various sports and leisure facilities.\n\n
+</string>
+
+<string name="yeouido">
+"The first ecological park to be opened in the country serves as an outdoor classroom for the observation and study of living things.\n\n
+    "The park consists of streams and an ecological pond, low, swampy land &amp; a water course, a willow forest, dry grassland, and observation spots and wooden bridges.\n\n
+    "The stream is about 1.2 kilometers long and 15 meters wide. The 6 kilometer long trail is sign posted every 20 to 30 meters.\n\n
+"There are no snack bars, park benches or streetlights in this park in an attempt to leave its ecosystem as undisturbed as possible.\n\n
+   "The park is directly connected to Hangang. Yeouido Park and Ankara Park are also located nearby.\n\n
+</string>
+
+<string name="yongsan">
+"This picturesque combination of an open grassy field, ponds and trails serve as the perfect getaway from busy day-to-day pressures.\n\n
+    "Following the Korean War, a U.S. military command post and golf course were here, until it was converted to a public park in 1992.\n\n
+    "About two thirds of the park, now belongs to the nearby National Museum of Korea, which moved here in 2005.\n\n
+"The components of the golf course - its lawn field, forest and ponds - remain almost unchanged. The park also features a two kilometer long trail, nature experience grounds and Taegeukgi Park.\n\n
+    "The park is a natural habitat for such wild birds as pheasants, pigeons and helmeted Guineafowls.\n\n
+</string>
+
+    <!-- 골목길 !-->
+
+<string name="bossam">
+    Located at Supyo-ro 20-gil, Jongno 3(sam)-ga Bossam Alley is a narrow street about 150 meters long and three meters wide located next to Seoul Cinema.\n\n
+    The bossam restaurants here are densely packed within a 100-meter section. Take a few steps into the dark alley, and you will soon spot the red and white signboard of a bossam restaurant.\n\n
+The alley is filled with milky-white steam escaping from large pots filled with boiling pork.\n\n
+</string>
+
+    <string name="bukchon">
+"Located among Gyeongbokgun Palace, Changdeokgung Palace, and Jongmyo, Bukchon is the area of Seoul that contains the most hanoks.\n\n
+        "Its many historical and cultural heritage sites and wealth of folk content make it like a “street museum” in Seoul.\n\n
+"As the heart of Hanyang(former name of Seoul), Bukchon was ideally located according to the principles of feng shui, featuring deepening valleys to the north and relatively smooth slopes to the south, stretching to Cheonggyecheon.\n\n
+    </string>
+
+    <string name="central">
+
+"A small Community has been established near Dongdaemun History and Culture Park Station where foreigners from all over the world, especially Mongolia, Russia, Uzbekistan, Kazakhstan, and Tajikistan, live together.\n\n
+        "The main reason they gathered in this one area is because of the establishment of Korea-Russia diplomatic relations in 1990.\n\n
+"After the agreement to establish diplomatic relation was reached, many merchants from Russia flocked to this neighborhood, rapidly transforming it into a residential area for Russians, and then later for Central Asians and Mongolians.\n\n
+
+    </string>
+
+    <string name="dubu">
+"It was during the 1980s the 1980s that Dubu Alley began to take shape, as food stalls that had been set up at the entrance of Dobongsan (Mountain) moved farther down the mountain and opened as official restaurants.\n\n
+        "In 2007, the public was granted fress access to Dobongsan National Park, making it a popular destination overnight.\n\n
+"Additionally, the fervor for health and well-being has picked up since the latter part of 2000, increasing the preference for dubu.\n\n
+        "Today, Dobongsan is a major mountain-climbing destination, sought out by 10 million people annually.\n\n
+    </string>
+
+    <string name="garosu">
+
+    "With the opening of Esmod, a French fashion institute, in 1989 and the establishment of Seoul\n\n
+    "Mode Fashion Institute in 1991, Garosu-gil, Korea’s hippest place for fashion, became ground\n\n
+    "zero for aspiring designers and designers who studied abroad.\n\n
+    "The relocation of Gallery Yeh from Jongno to Garosu-gil in 192 marked the opening of the first\n\n
+    "commercial gallery in Gangnam, granting Garosu-gil the name, “Street of Artists.” Also the\n\n
+    "numerous multi-brand shops and pop-up stores and frequent flea markets make it an excellent\n\n
+    "place to find good bargains.\n\n
+    </string>
+
+    <string name="insa">
+
+    "Insa-dong Street refers to the approximately 700-meter-long street in the Jongno district.
+
+    "In the old days, there was a stream that flowed from Samcheong-dong to Cheonggyecheon, and\n\n
+    "Insa-dong Street was formed along-side that Stream.\n\n
+    "At the time, Insa-dong contained both district offices and residential areas. Among its offices,\n\n
+    "the Dohwawon, an institute that taught painting and held exams, had the greatest influence on\n\n
+    "Insa-dong’s identity, attracting may antique and art-related shops to the street.\n\n
+
+    </string>
+
+
+    <string name="jaemi">
+
+"Those who knew this place in the old days probably remember a steep uphill road with no character at all, a far cry from the glitz and glamor of Myeong-dong, just across the road.\n\n
+        "The street connects Namsan(Mountain) and Myeong-dong, which welcomes approximately seven million tourists annually.\n\n
+        "It had been largely overlooked for many years. In 2013, it was reborn as “Jaemiro, the Street of Manhwa(comics).”\n\n
+"About 70 of Korea’s best manhwa artists created the contents for the street, and a Manhwa Neighborhood Meeting was held to gather the opinions of locals.\n\n
+ </string>
+
+
+    <string name="kstar">
+
+"Created in March 2014, K-Star Road is about 1km long, traversing Cheongdam-dong and Apgujeong-dong. With hallyu rapidly gaining popularity over the past few years, the road was created to provide a richer source of entertainment to domestic visitors and foreign tourists.\n\n
+        "Shops that are frequented by hallyu stars and the offices of major entertainment management companies can be found along this street.\n\n
+
+    </string>
+
+
+    <string name="kalguksu">
+
+"Namdaemun Kal-guksu Alley began to take shape during the Korean War.\n\n
+        "Immediately after the war broke out, on June 25, 1950, a cluster of shops selling leftovers from the U.S. Army base began serving Kal-guksu.\n\n
+        "Today, this alley of shops has become a representative food alley symbolizing Namdaemun and Myeong-dong.\n\n
+"Kal-guksu Alley is located in Namdaemun Market, the oldest traditional market in Seoul with more than 10,000 stores and a place that provides up-close experiences of the vitality of the everyday lives of the Korean people.\n\n
+
+
+    </string>
+    <string name="lamb">
+
+"Lamb Kebab Alley features more signboards in Chinese than in Korean. With Koreans accounting for more than 70 percent of the customers, it has become an area where Koreans and Chinese mingle and interact with each other.\n\n
+"Lamb on skewers is a major street food in China. Lamb meat is not only easy to digest and nutritious, but also low in calories and fat while being high in protein.\n\n
+
+
+    </string>
+
+    <string name="mural">
+
+    "Ihwa Mural Village is located between Hyehwa Station and Dongdaemun Station, just below Naksan\n\n
+    "Park. During the 1970s, this area was manufacturing center, responsible for the production of\n\n
+    "most of the clothes, bedding, curtains, and accessories sold at Dongdaemun Market.\n\n
+    "However, after redevelopment plans were announced in early 2000, the sewing work dwindled,\n\n
+    "forcing residents to relocate elsewhere and taking the vibrancy of the neighborhood with them.\n\n
+    "Consequently, artists set out to revive the area. Not only did they improve the appearance of\n\n
+    "the neighborhood but they collected and recorded the history of the neighborhood and the stories\n\n
+    "of its residents.\n\n
+</string>
+
+    <string name="pajeon">
+
+"Pajeon Alley originated with pajeon being sold in a small shack in the 1970s.\n\n
+        "Since then, the number of pajeon shops has increased gradually, and today, there are about a dozen.\n\n
+"Hwigyeong-dong, where Pajeon Alley is located, is home to the University of Seoul, Kyunghee University, Hankuk University of Foreign Studies, and Sahmyook University.\n\n
+        "If we include Korea University and Korea University and the Korea National University of Arts, there are a total of six universities in the surrounding area.\n\n
+       "This explains why the majority of customers are in their 20s.\n\n
+
+    </string>
+
+
+    <string name="saengseon">
+"Visitors will see mainly four types of people walking along this alley :
+              women standing in open doors to welcome customers, employees facing the smoke and turning fish on the grill, potential customers considering their choice of restaurant, and delivery workers carrying trays piled high with got dishes.\n\n
+"There are a total of 14 restaurants serving saengseon-gui here, and most have loyal customers that have frequented their restaurants for more than a decade.\n\n
+        "The main selling point for them is the guaranteed excellent-tasting food and quality service.\n\n
+
+    </string>
+
+
+    <string name="seochon">
+
+"Seochon refers to the area west of Gyeongbokgung Palace, while Bukchon is a neighborhood in the north.\n\n
+        "However, Seochon is not so easy to find. There are few signs to guide visitors, and with even locals unfamiliar with the name “Seochon”, taxi drivers will only understand where you want to go if you also mention, “Near Hyoja-dong”.\n\n
+"In Seochon, there are scores of old alleys and buildings, and the locals are somewhat more relaxed.\n\n
+        "There are not as many hanoks as there are in Bukchon, but the lack of tall buildings gives it a charming, quaint look.\n\n
+
+    </string>
+
+
+    <string name="seorae">
+
+"Called “Little France in Seoul”, Seorae Village gained this title after the opening of the French School of Seoul in 1985, which offered an opportunity for French children to receive an education similar to what they would receive back home and attracted French families to the area.\n\n
+"The cafes lining this neighborhood’s Cafe Street are in stark contrast to the typical coffee shops found in Seoul.\n\n
+       "Cafes in France are restaurants that sell not only coffee but also wine and decent meals, and most of them have a balcony or terrace and sell everything from baguettes to steaks. Many of the restaurants here strictly adhere to traditional French cuisine and most have French cooks or cooks who have studied in France.\n\n
+
+    </string>
+
+
+    <string name="shoes">
+
+"In the 1990s, handmade shoe stores from around the city began moving to Seongsu-dong in search of lower rent.\n\n
+        "At the time, the head office of Kumkang Shoes, the largest shoe producer in Korea, was located in the area.\n\n
+        "After the Asian Financial Crisis of 1997, even more companies and factories moved here.\n\n
+"Today, Handmade Shoes Street is home to more than 500 shoe-related companies.\n\n
+        "There are 217 stores selling finished women’s shoes, 110 distributors of subsidiary materials, and 102 intermediate processing companies, which is why this area has become known as the hub of handmade shoes in Seoul.\n\n
+
+    </string>
+
+
+    <string name="ttaeng">
+"The unique name “Ttaeng-ttaeng Street” comes from the “Ttaeng! Ttaeng!” sound that accompanied the passing of trains on the nearby Gyeongui Railway Line.\n\n
+        "After the railway was moved underground in 2005, the regular commuters disappeared, causing the commercial district to fade away and leaving a desolate, vacant lot in its place.\n\n
+"One day, a local sotre owner had an idea to bring life back to the once vibrant street.\n\n
+        "He harnessed the potential of the musicians and artists living nearby to create the “Ttaeng-ttaeng Street Market.”\n\n
+
+
+    </string>
+
+
+    <string name="usadan">
+"Usadan-gil is derived from “Usadan” an altar created to conduct rain rituals during the reign of Joseon’s third king, King Taejong(1400-1418). After Korea’s liberation, a shanty town formed here, but with the government’s initiative to transform it into a proper residential district during the 1960s, it was filled with brick apartment buildings.\n\n
+"The greatest charm of this street is the exquisite harmony between the old and new.\n\n
+        "For example, there is an old-fashioned barbershop, which looks as if it could have appeared in the drama series Yain Shidae located next door to a cafe with the latest coffee roasting equipment.\n\n
+
+
+    </string>
+
+
+    <string name="watch">
+"Yeji-dong Watch Shop Alley began to take shape as watch and jewelry merchants near Cheonggyecheon(Stream) relocated here in the 1960s.\n\n
+        "In the 1970s and 80s, it was a popular place for soon-to-be-married couples to shop for engagement gifts. However, by the 1990s, these shops were largely forgotten due to the emergence of beepers and mobile phones, and many of the luxury watch shops moved to nearby department stores and Jongno Sewoon Square.\n\n
+"Yeji-dong Watch Shop Alley is located on the opposite side of Gwangjang Market and faces Cheonggyecheon(Stream). Take Exit 3 of Euljiro 4(sa)-ga Station, walk for three minutes, and you will find the alley on your left.\n\n
+
+
+    </string>
+
+
+    <string name="yonsei">
+"With the street of Yonsei-ro crossing through its heart, the Sinchon area has its origins in the early Joseon era.
+       "But now, 500 years later, Sinchon has become the center of the western area of Seoul and one of the city’s most vibrant neighborhoods.
+"Yonhui College, which later became Yonsei University, was founded here in 1914, followed by Ewha College.
+       "Students from nearby Sogang University, Hongik University, Myongji University, and Korea Aerospace University also frequent the area, explaining the economic growth and thoroughly “student-like” atmosphere.
+
+
+    </string>
+
+
+</resources>

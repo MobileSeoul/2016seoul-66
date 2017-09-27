@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="7"
+    >
+
+    <LinearLayout
+        android:id="@+id/BackgroundLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/foundation"
+        android:orientation="vertical"
+        android:layout_weight="4"
+        >
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/optionScroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="visible"
+        android:layout_weight="2"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/road"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R O A D"
+            android:background="@drawable/btn_design"
+            android:layout_marginBottom="4dp"/>
+
+        <Button
+            android:id="@+id/park"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P A R K"
+            android:background="@drawable/btn_design1"
+            android:layout_marginBottom="4dp"/>
+
+        <Button
+            android:id="@+id/palace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P A L A C E"
+            android:background="@drawable/btn_design3"
+            android:layout_marginBottom="4dp"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/roadScroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <Button
+            android:id="@+id/road1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bukchon Hanok Village"
+            android:background="@drawable/btn_design"
+            />
+
+        <Button
+            android:id="@+id/road2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cheongdam K-star Road"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sinchon Yonsei Ro"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dobongsan Dubu(tofu) Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sinsa Dong Garosu Gil"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dongdaemun Saengseon Gui Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gwanghui Dong Central Asia Street"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yeji Dong Watch Shop Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hoegi Subway station Pajeon Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hongdae Ttaeng ttaeng Street"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ihwa Mural Village"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Itaewon Usadan Gil"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jongno 3 Ga Bossam Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jongno Insa Dong Street"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jongno Seochon Village"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Konkuk University Lamb Kebab Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Myeong Dong Jaemiro"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Namdaemun Kal Guksu Alley"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seongsu Dong Handmade Shoes Street"
+            android:background="@drawable/btn_design"/>
+
+        <Button
+            android:id="@+id/road20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seorae Village Cafe Street"
+            android:background="@drawable/btn_design"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/parkScroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <Button
+            android:id="@+id/park1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Boramae Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dream Forest"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gildong Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Iris Garden"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jungnang Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Independence Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Namsan Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Olympic Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pureun Arboretum"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sajik Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seonyudo Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seoseoul Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seoul Forest"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tabgol Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="World Cup Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yeouido Park"
+            android:background="@drawable/btn_design1"/>
+
+        <Button
+            android:id="@+id/park17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yongsan Park"
+            android:background="@drawable/btn_design1"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/palaceScroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <Button
+            android:id="@+id/palace1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Changdeokgung Palace"
+            android:background="@drawable/btn_design3"/>
+
+        <Button
+            android:id="@+id/palace2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Changgyeonggung Palace"
+            android:background="@drawable/btn_design3"/>
+
+        <Button
+            android:id="@+id/palace3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deoksugung Palace"
+            android:background="@drawable/btn_design3"/>
+
+        <Button
+            android:id="@+id/palace4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gyeongbokgung Palace"
+            android:background="@drawable/btn_design3"/>
+
+        <Button
+            android:id="@+id/palace5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gyeonghuigung Palace"
+            android:background="@drawable/btn_design3"/>
+
+        <Button
+            android:id="@+id/palace6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jongmyo"
+            android:background="@drawable/btn_design3"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
